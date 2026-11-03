@@ -83,14 +83,20 @@
 <h3 align="center">✦ VAMOS CONVERSAR? ✦</h3>
 
 <p align="center">
-  <a href="https://github.com/diogold01" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-090D16?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=05070D" />
+  <a href="https://www.linkedin.com/in/diogold" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-in%2Fdiogold-090D16?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=05070D" />
+  </a>
+  <a href="https://www.instagram.com/diogold01" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%40diogold01-090D16?style=for-the-badge&logo=instagram&logoColor=38BDF8&labelColor=05070D" />
   </a>
   <a href="mailto:diogold527@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-090D16?style=for-the-badge&logo=gmail&logoColor=38BDF8&labelColor=05070D" />
+    <img src="https://img.shields.io/badge/E--mail-diogold527%40gmail.com-090D16?style=for-the-badge&logo=gmail&logoColor=38BDF8&labelColor=05070D" />
   </a>
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-090D16?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=05070D" />
+  <a href="https://www.coliseusistemas.com.br/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-Coliseu_Sistemas-090D16?style=for-the-badge&logo=safari&logoColor=38BDF8&labelColor=05070D" />
+  </a>
+  <a href="https://github.com/diogold01" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-diogold01-090D16?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=05070D" />
   </a>
 </p>
 
