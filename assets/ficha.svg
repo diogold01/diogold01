@@ -46,7 +46,7 @@
       ⚡ FOCO PRINCIPAL
     </text>
     <text x="18" y="44" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="500" fill="#f1f5f9">
-      Engenharia de Software & Aplicações Full Stack
+      Engenharia de Software &amp; Aplicações Full Stack
     </text>
   </g>
 
@@ -57,7 +57,7 @@
       🛠️ CORE STACK
     </text>
     <text x="18" y="44" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="500" fill="#f1f5f9">
-      Next.js &bull; TypeScript &bull; Python &bull; Tailwind CSS
+      Next.js &#8226; TypeScript &#8226; Python &#8226; Tailwind CSS
     </text>
   </g>
 
@@ -65,10 +65,10 @@
   <g transform="translate(40, 134)">
     <rect width="395" height="56" rx="8" fill="#090e1a" stroke="#1e293b" stroke-width="1"/>
     <text x="18" y="24" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="700" fill="#38bdf8" letter-spacing="1">
-      📐 ARQUITETURA & PRINCÍPIOS
+      📐 ARQUITETURA &amp; PRINCÍPIOS
     </text>
     <text x="18" y="44" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="500" fill="#f1f5f9">
-      Clean Code, Mínima Fricção & Alta Performance
+      Clean Code, Mínima Fricção &amp; Alta Performance
     </text>
   </g>
 
@@ -80,7 +80,7 @@
       DISPONIBILIDADE
     </text>
     <text x="18" y="44" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="500" fill="#f1f5f9">
-      Construindo soluções modernas & Open Source
+      Construindo soluções modernas &amp; Open Source
     </text>
   </g>
 </svg>

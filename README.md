@@ -63,20 +63,15 @@
 </p>
 
 <!-- 📊 STATUS & MÉTRICAS DO GITHUB -->
-<h3 align="center">✦ MÉTRICAS DO SISTEMA & ATIVIDADE ✦</h3>
+<h3 align="center">✦ MÉTRICAS DO SISTEMA &amp; ATIVIDADE ✦</h3>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=diogold01&show_icons=true&theme=transparent&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8&border_color=1E293B&bg_color=00000000&hide_border=false" alt="Status GitHub"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogold01&layout=compact&theme=transparent&title_color=38BDF8&text_color=94A3B8&border_color=1E293B&bg_color=00000000&hide_border=false" alt="Linguagens Mais Usadas"/>
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=diogold01&show_icons=true&theme=transparent&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8&border_color=1E293B&bg_color=00000000&hide_border=false" alt="Status GitHub"/>
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=diogold01&layout=compact&theme=transparent&title_color=38BDF8&text_color=94A3B8&border_color=1E293B&bg_color=00000000&hide_border=false" alt="Linguagens Mais Usadas"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=diogold01&theme=transparent&background=090D16&border=1E293B&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=38BDF8&sideNums=F1F5F9&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B" alt="Streak Stats"/>
-</p>
-
-<!-- 🐍 COBRINHA ANIMADA DE COMMITS (Gerada pelo workflow .github/workflows/snake.yml) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/diogold01/diogold01/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Cobrinha consumindo contribuições"/>
 </p>
 
 <!-- 🌟 DIVISOR VETORIAL -->

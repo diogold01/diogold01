@@ -33,14 +33,14 @@
 
   <!-- Header interno -->
   <text x="40" y="36" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" fill="#38bdf8" letter-spacing="1.5">
-    // TECH STACK & PROFICIENCY MATRIX
+    // TECH STACK &amp; PROFICIENCY MATRIX
   </text>
   <line x1="40" y1="46" x2="860" y2="46" stroke="#1e293b" stroke-width="1"/>
 
   <!-- Coluna 1: Frontend & UI -->
   <g transform="translate(40, 68)">
     <!-- Skill 1 -->
-    <text x="0" y="12" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#e2e8f0">Next.js & React</text>
+    <text x="0" y="12" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#e2e8f0">Next.js &amp; React</text>
     <text x="390" y="12" text-anchor="end" font-family="'Fira Code', 'Courier New', monospace" font-size="11" font-weight="bold" fill="#38bdf8">95%</text>
     <rect x="0" y="20" width="390" height="8" rx="4" fill="#0f172a" stroke="#1e293b"/>
     <rect x="0" y="20" width="370" height="8" rx="4" fill="url(#barGrad)"/>
@@ -48,7 +48,7 @@
     <circle cx="370" cy="24" r="3" fill="#ffffff" class="p-node" style="transform-origin: 370px 24px;"/>
 
     <!-- Skill 2 -->
-    <text x="0" y="58" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#e2e8f0">TypeScript & Modern JavaScript</text>
+    <text x="0" y="58" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#e2e8f0">TypeScript &amp; Modern JavaScript</text>
     <text x="390" y="58" text-anchor="end" font-family="'Fira Code', 'Courier New', monospace" font-size="11" font-weight="bold" fill="#38bdf8">90%</text>
     <rect x="0" y="66" width="390" height="8" rx="4" fill="#0f172a" stroke="#1e293b"/>
     <rect x="0" y="66" width="351" height="8" rx="4" fill="url(#barGrad)"/>
@@ -56,7 +56,7 @@
     <circle cx="351" cy="70" r="3" fill="#ffffff" class="p-node" style="transform-origin: 351px 70px; animation-delay: 0.3s;"/>
 
     <!-- Skill 3 -->
-    <text x="0" y="104" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#e2e8f0">Tailwind CSS & Component Architecture</text>
+    <text x="0" y="104" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#e2e8f0">Tailwind CSS &amp; Component Architecture</text>
     <text x="390" y="104" text-anchor="end" font-family="'Fira Code', 'Courier New', monospace" font-size="11" font-weight="bold" fill="#38bdf8">92%</text>
     <rect x="0" y="112" width="390" height="8" rx="4" fill="#0f172a" stroke="#1e293b"/>
     <rect x="0" y="112" width="358" height="8" rx="4" fill="url(#barGrad)"/>
@@ -67,7 +67,7 @@
   <!-- Coluna 2: Backend, Dados & Tooling -->
   <g transform="translate(470, 68)">
     <!-- Skill 4 -->
-    <text x="0" y="12" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#e2e8f0">Python (Desktop, Automações & APIs)</text>
+    <text x="0" y="12" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#e2e8f0">Python (Desktop, Automações &amp; APIs)</text>
     <text x="390" y="12" text-anchor="end" font-family="'Fira Code', 'Courier New', monospace" font-size="11" font-weight="bold" fill="#38bdf8">88%</text>
     <rect x="0" y="20" width="390" height="8" rx="4" fill="#0f172a" stroke="#1e293b"/>
     <rect x="0" y="20" width="343" height="8" rx="4" fill="url(#barGrad)"/>
@@ -75,7 +75,7 @@
     <circle cx="343" cy="24" r="3" fill="#ffffff" class="p-node" style="transform-origin: 343px 24px; animation-delay: 0.2s;"/>
 
     <!-- Skill 5 -->
-    <text x="0" y="58" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#e2e8f0">Banco de Dados & Supabase / SQL</text>
+    <text x="0" y="58" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#e2e8f0">Banco de Dados &amp; Supabase / SQL</text>
     <text x="390" y="58" text-anchor="end" font-family="'Fira Code', 'Courier New', monospace" font-size="11" font-weight="bold" fill="#38bdf8">85%</text>
     <rect x="0" y="66" width="390" height="8" rx="4" fill="#0f172a" stroke="#1e293b"/>
     <rect x="0" y="66" width="331" height="8" rx="4" fill="url(#barGrad)"/>
@@ -83,7 +83,7 @@
     <circle cx="331" cy="70" r="3" fill="#ffffff" class="p-node" style="transform-origin: 331px 70px; animation-delay: 0.5s;"/>
 
     <!-- Skill 6 -->
-    <text x="0" y="104" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#e2e8f0">Git, Docker & Cloud Deployment (Vercel)</text>
+    <text x="0" y="104" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#e2e8f0">Git, Docker &amp; Cloud Deployment (Vercel)</text>
     <text x="390" y="104" text-anchor="end" font-family="'Fira Code', 'Courier New', monospace" font-size="11" font-weight="bold" fill="#38bdf8">90%</text>
     <rect x="0" y="112" width="390" height="8" rx="4" fill="#0f172a" stroke="#1e293b"/>
     <rect x="0" y="112" width="351" height="8" rx="4" fill="url(#barGrad)"/>

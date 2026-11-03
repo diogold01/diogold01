@@ -55,7 +55,7 @@
     <rect width="160" height="26" rx="13" fill="#0f172a" stroke="#334155" stroke-width="1"/>
     <circle cx="18" cy="13" r="3.5" fill="#38bdf8" class="pulse-status" style="transform-origin: 18px 13px;"/>
     <text x="30" y="17" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" fill="#94a3b8" letter-spacing="1">
-      DIOGO &bull; DEV
+      DIOGO &#8226; DEV
     </text>
   </g>
 
@@ -66,7 +66,7 @@
 
   <!-- Subtítulo / Especialidades -->
   <text x="450" y="172" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="500" fill="#94a3b8" letter-spacing="2.5">
-    SOFTWARE DEVELOPER &bull; NEXT.JS &bull; PYTHON &bull; FULL STACK
+    SOFTWARE DEVELOPER &#8226; NEXT.JS &#8226; PYTHON &#8226; FULL STACK
   </text>
 
   <!-- Marcadores Sutis Inferiores -->
