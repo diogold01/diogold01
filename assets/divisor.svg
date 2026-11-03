@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="24" viewBox="0 0 900 24">
+  <defs>
+    <!-- Gradiente de desvanecimento da linha -->
+    <linearGradient id="divLineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0"/>
+      <stop offset="35%" stop-color="#38bdf8" stop-opacity="0.35"/>
+      <stop offset="50%" stop-color="#38bdf8" stop-opacity="0.9"/>
+      <stop offset="65%" stop-color="#38bdf8" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Pulso dinâmico de brilho que desliza na linha -->
+    <linearGradient id="glowPulse" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-0.5 0; 0.5 0" dur="3.5s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .pulse-core { animation: pCore 2.2s infinite ease-in-out; transform-origin: 450px 12px; }
+    @keyframes pCore { 0%, 100% { transform: scale(1); opacity: 0.6; } 50% { transform: scale(1.4); opacity: 1; } }
+  </style>
+
+  <!-- Linha Base -->
+  <line x1="40" y1="12" x2="860" y2="12" stroke="url(#divLineGrad)" stroke-width="1"/>
+  
+  <!-- Linha com Brilho Deslizante -->
+  <line x1="260" y1="12" x2="640" y2="12" stroke="url(#glowPulse)" stroke-width="1.5" opacity="0.85"/>
+
+  <!-- Nó Central Iluminado com Pulso -->
+  <circle cx="450" cy="12" r="6" fill="#38bdf8" opacity="0.25" class="pulse-core"/>
+  <circle cx="450" cy="12" r="3" fill="#38bdf8"/>
+  <circle cx="450" cy="12" r="1.4" fill="#ffffff"/>
+</svg>
