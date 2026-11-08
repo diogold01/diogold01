@@ -1,0 +1,40 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 228" width="900" height="228" role="img" aria-label="Stack: Python, TypeScript, JavaScript, SQL, React, Next.js, PySide6, Electron, Tailwind, Supabase, PostgreSQL, SQLite, Gemini API, Google ADK, Git, Vercel, FFmpeg, Vite">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0c1a30"/><stop offset="1" stop-color="#050914"/></linearGradient></defs>
+<style>
+.mono{font-family:'Courier New',monospace}
+.chip{animation:chip 4.2s steps(1,end) infinite}
+@keyframes chip{0%{opacity:1}92%{opacity:1}94%{opacity:.45}96%{opacity:1}98%{opacity:.7}100%{opacity:1}}
+.sig{animation:sig 1.6s steps(1,end) infinite}
+@keyframes sig{0%{opacity:1}50%{opacity:.25}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect width="900" height="228" rx="6" fill="url(#bg)"/>
+<rect x="0.5" y="0.5" width="899" height="227" rx="6" fill="none" stroke="#1d5f99"/>
+<rect width="900" height="30" rx="6" fill="#0f1930"/><rect y="24" width="900" height="6" fill="#0f1930"/>
+<rect x="16" y="11" width="8" height="8" fill="#22355e"/><rect x="30" y="11" width="8" height="8" fill="#22355e"/><rect x="44" y="11" width="8" height="8" fill="#4cc2ff"/>
+<text class="mono" x="66" y="20" font-size="13" fill="#7fa3d6" letter-spacing="2">STORM-RADAR ~ STACK</text>
+<text class="sig mono" x="860" y="20" font-size="12" fill="#4cc2ff" text-anchor="end" letter-spacing="2">CHARGE: ACTIVE</text>
+<text class="mono" x="40" y="79" font-size="12" fill="#4a6fa5" letter-spacing="2">LINGUAGENS</text>
+<g class="chip" style="animation-delay:0.0s"><rect x="190" y="62" width="82" height="26" fill="#0c1a30" stroke="#1d5f99"/><rect x="190" y="62" width="4" height="26" fill="#4cc2ff"/><text class="mono" x="206" y="80" font-size="14" fill="#e0f2fe" letter-spacing="1">Python</text></g>
+<g class="chip" style="animation-delay:0.7s"><rect x="284" y="62" width="120" height="26" fill="#0c1a30" stroke="#1d5f99"/><rect x="284" y="62" width="4" height="26" fill="#4cc2ff"/><text class="mono" x="300" y="80" font-size="14" fill="#e0f2fe" letter-spacing="1">TypeScript</text></g>
+<g class="chip" style="animation-delay:1.4s"><rect x="416" y="62" width="120" height="26" fill="#0c1a30" stroke="#1d5f99"/><rect x="416" y="62" width="4" height="26" fill="#4cc2ff"/><text class="mono" x="432" y="80" font-size="14" fill="#e0f2fe" letter-spacing="1">JavaScript</text></g>
+<g class="chip" style="animation-delay:2.1s"><rect x="548" y="62" width="54" height="26" fill="#0c1a30" stroke="#1d5f99"/><rect x="548" y="62" width="4" height="26" fill="#4cc2ff"/><text class="mono" x="564" y="80" font-size="14" fill="#e0f2fe" letter-spacing="1">SQL</text></g>
+<g class="chip" style="animation-delay:2.8s"><rect x="614" y="62" width="120" height="26" fill="#0c1a30" stroke="#1d5f99"/><rect x="614" y="62" width="4" height="26" fill="#4cc2ff"/><text class="mono" x="630" y="80" font-size="14" fill="#e0f2fe" letter-spacing="1">HTML / CSS</text></g>
+<text class="mono" x="40" y="119" font-size="12" fill="#4a6fa5" letter-spacing="2">FRAMEWORKS</text>
+<g class="chip" style="animation-delay:3.5s"><rect x="190" y="102" width="73" height="26" fill="#0c1a30" stroke="#1d5f99"/><rect x="190" y="102" width="4" height="26" fill="#4cc2ff"/><text class="mono" x="206" y="120" font-size="14" fill="#e0f2fe" letter-spacing="1">React</text></g>
+<g class="chip" style="animation-delay:4.2s"><rect x="275" y="102" width="92" height="26" fill="#0c1a30" stroke="#1d5f99"/><rect x="275" y="102" width="4" height="26" fill="#4cc2ff"/><text class="mono" x="291" y="120" font-size="14" fill="#e0f2fe" letter-spacing="1">Next.js</text></g>
+<g class="chip" style="animation-delay:0.7s"><rect x="379" y="102" width="148" height="26" fill="#0c1a30" stroke="#1d5f99"/><rect x="379" y="102" width="4" height="26" fill="#4cc2ff"/><text class="mono" x="395" y="120" font-size="14" fill="#e0f2fe" letter-spacing="1">PySide6 (Qt6)</text></g>
+<g class="chip" style="animation-delay:1.4s"><rect x="539" y="102" width="101" height="26" fill="#0c1a30" stroke="#1d5f99"/><rect x="539" y="102" width="4" height="26" fill="#4cc2ff"/><text class="mono" x="555" y="120" font-size="14" fill="#e0f2fe" letter-spacing="1">Electron</text></g>
+<g class="chip" style="animation-delay:2.1s"><rect x="652" y="102" width="139" height="26" fill="#0c1a30" stroke="#1d5f99"/><rect x="652" y="102" width="4" height="26" fill="#4cc2ff"/><text class="mono" x="668" y="120" font-size="14" fill="#e0f2fe" letter-spacing="1">Tailwind CSS</text></g>
+<text class="mono" x="40" y="159" font-size="12" fill="#4a6fa5" letter-spacing="2">DADOS E IA</text>
+<g class="chip" style="animation-delay:2.8s"><rect x="190" y="142" width="101" height="26" fill="#0c1a30" stroke="#1d5f99"/><rect x="190" y="142" width="4" height="26" fill="#4cc2ff"/><text class="mono" x="206" y="160" font-size="14" fill="#e0f2fe" letter-spacing="1">Supabase</text></g>
+<g class="chip" style="animation-delay:3.5s"><rect x="303" y="142" width="120" height="26" fill="#0c1a30" stroke="#1d5f99"/><rect x="303" y="142" width="4" height="26" fill="#4cc2ff"/><text class="mono" x="319" y="160" font-size="14" fill="#e0f2fe" letter-spacing="1">PostgreSQL</text></g>
+<g class="chip" style="animation-delay:4.2s"><rect x="435" y="142" width="82" height="26" fill="#0c1a30" stroke="#1d5f99"/><rect x="435" y="142" width="4" height="26" fill="#4cc2ff"/><text class="mono" x="451" y="160" font-size="14" fill="#e0f2fe" letter-spacing="1">SQLite</text></g>
+<g class="chip" style="animation-delay:0.7s"><rect x="529" y="142" width="120" height="26" fill="#0c1a30" stroke="#1d5f99"/><rect x="529" y="142" width="4" height="26" fill="#4cc2ff"/><text class="mono" x="545" y="160" font-size="14" fill="#e0f2fe" letter-spacing="1">Gemini API</text></g>
+<g class="chip" style="animation-delay:1.4s"><rect x="661" y="142" width="120" height="26" fill="#0c1a30" stroke="#1d5f99"/><rect x="661" y="142" width="4" height="26" fill="#4cc2ff"/><text class="mono" x="677" y="160" font-size="14" fill="#e0f2fe" letter-spacing="1">Google ADK</text></g>
+<text class="mono" x="40" y="199" font-size="12" fill="#4a6fa5" letter-spacing="2">FERRAMENTAS</text>
+<g class="chip" style="animation-delay:2.1s"><rect x="190" y="182" width="139" height="26" fill="#0c1a30" stroke="#1d5f99"/><rect x="190" y="182" width="4" height="26" fill="#4cc2ff"/><text class="mono" x="206" y="200" font-size="14" fill="#e0f2fe" letter-spacing="1">Git / GitHub</text></g>
+<g class="chip" style="animation-delay:2.8s"><rect x="341" y="182" width="82" height="26" fill="#0c1a30" stroke="#1d5f99"/><rect x="341" y="182" width="4" height="26" fill="#4cc2ff"/><text class="mono" x="357" y="200" font-size="14" fill="#e0f2fe" letter-spacing="1">Vercel</text></g>
+<g class="chip" style="animation-delay:3.5s"><rect x="435" y="182" width="82" height="26" fill="#0c1a30" stroke="#1d5f99"/><rect x="435" y="182" width="4" height="26" fill="#4cc2ff"/><text class="mono" x="451" y="200" font-size="14" fill="#e0f2fe" letter-spacing="1">FFmpeg</text></g>
+<g class="chip" style="animation-delay:4.2s"><rect x="529" y="182" width="64" height="26" fill="#0c1a30" stroke="#1d5f99"/><rect x="529" y="182" width="4" height="26" fill="#4cc2ff"/><text class="mono" x="545" y="200" font-size="14" fill="#e0f2fe" letter-spacing="1">Vite</text></g>
+</svg>

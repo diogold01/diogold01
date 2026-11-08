@@ -1,0 +1,33 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 44" width="900" height="44" shape-rendering="crispEdges" role="img" aria-label="Divisor de relâmpago">
+<defs><radialGradient id="g" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#4cc2ff" stop-opacity=".55"/><stop offset="1" stop-color="#4cc2ff" stop-opacity="0"/></radialGradient></defs>`n<style>
+.flash{opacity:0;animation:flash 4s steps(1,end) infinite}
+@keyframes flash{0%{opacity:0}70%{opacity:1}72%{opacity:.3}74%{opacity:1}80%{opacity:0}100%{opacity:0}}
+.glow{opacity:0;animation:glow 4s steps(1,end) infinite}
+@keyframes glow{0%{opacity:0}70%{opacity:1}72%{opacity:.3}74%{opacity:.9}82%{opacity:0}100%{opacity:0}}
+.pulse{animation:pulse 2s steps(2,end) infinite}
+@keyframes pulse{0%{opacity:.35}50%{opacity:.9}100%{opacity:.35}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}.flash{opacity:1}}
+</style>
+<rect x="40" y="21" width="360" height="2" fill="#142140"/>
+<rect x="500" y="21" width="360" height="2" fill="#142140"/>
+<rect class="pulse" x="40" y="21" width="120" height="2" fill="#1d5f99"/>
+<rect class="pulse" x="740" y="21" width="120" height="2" fill="#1d5f99"/>
+<ellipse class="glow" cx="450" cy="22" rx="150" ry="22" fill="url(#g)" shape-rendering="auto"/>
+<g class="flash" fill="#ffffff">
+<rect x="448" y="0" width="12" height="8"/>
+<rect x="440" y="8" width="12" height="8"/>
+<rect x="432" y="16" width="20" height="6"/>
+<rect x="440" y="22" width="20" height="6"/>
+<rect x="448" y="28" width="12" height="8"/>
+<rect x="440" y="36" width="8" height="8"/>
+</g>
+<g class="flash" fill="#4cc2ff">
+<rect x="460" y="0" width="4" height="8"/>
+<rect x="452" y="8" width="4" height="8"/>
+<rect x="452" y="16" width="4" height="6"/>
+<rect x="460" y="22" width="4" height="6"/>
+<rect x="460" y="28" width="4" height="8"/>
+</g>
+<rect x="446" y="19" width="8" height="8" fill="#4cc2ff" opacity=".55"/>
+</svg>
+
