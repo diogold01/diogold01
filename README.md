@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/storm_telemetry.svg" width="100%" alt="Diogo Duarte — Software Engineering — Coliseu Sistemas, Dourados/MS, Brasil"/>
+  <img src="./assets/storm_telemetry.svg?v=curso" width="100%" alt="Diogo Duarte — Engenharia de Software — Coliseu Sistemas, Dourados/MS, Brasil"/>
 </p>
 
 <p align="center">
