@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3200&pause=1200&color=4CC2FF&background=050914&center=true&vCenter=true&width=700&height=44&lines=Software+Engineer+%7C+Python+%E2%80%A2+TypeScript;Building+resilient+software+amidst+the+storm;Clean+Code+%E2%80%A2+Agents+%E2%80%A2+Automation" alt="Typing: Software Engineer | Python • TypeScript"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3200&pause=1200&color=4CC2FF&background=050914&center=true&vCenter=true&width=700&height=44&lines=Analista+de+TI+%7C+Software+Engineering;Building+resilient+software+amidst+the+storm;Clean+Code+%E2%80%A2+Python+%E2%80%A2+TypeScript" alt="Typing: Analista de TI | Software Engineering"/>
 </p>
 
 <!-- ⚡ DIVISOR + TELEMETRIA -->
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/storm_telemetry.svg" width="100%" alt="Diogo Duarte — Software Engineer — Python e TypeScript — Coliseu Sistemas, Dourados/MS"/>
+  <img src="./assets/storm_telemetry.svg" width="100%" alt="Diogo Duarte — Software Engineering — Coliseu Sistemas, Dourados/MS, Brasil"/>
 </p>
 
 <p align="center">
@@ -68,5 +68,5 @@
 </p>
 
 <p align="center">
-  <img src="./assets/storm_footer.svg" width="100%" alt="Diogo Duarte — Software Engineer — Coliseu Sistemas • Dourados, MS"/>
+  <img src="./assets/storm_footer.svg" width="100%" alt="Diogo Duarte — Analista de TI — Coliseu Sistemas • Dourados, MS, Brasil"/>
 </p>
