@@ -22,7 +22,7 @@
 
 <!-- ⚡ STACK -->
 <p align="center">
-  <img src="./assets/storm_stack.svg" width="100%" alt="Stack: Python, TypeScript, JavaScript, SQL, React, Next.js, PySide6, Electron, Tailwind CSS, Supabase, PostgreSQL, SQLite, Gemini API, Google ADK, Git, Vercel, FFmpeg, Vite"/>
+  <img src="./assets/storm_stack.svg" width="100%" alt="Stack: Python, SQL, TypeScript, JavaScript, HTML / CSS, React, Next.js, PySide6, Pytest, Tailwind CSS, PostgreSQL, SQLite, Supabase, REST APIs, Docker, Git, Vercel, Electron, Vite, FFmpeg"/>
 </p>
 
 <p align="center">
