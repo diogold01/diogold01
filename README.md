@@ -1,10 +1,10 @@
 <!-- 🌪️ BANNER + TYPING -->
 <p align="center">
-  <img src="./assets/tornado-banner.svg" width="100%" alt="Diogo — Software Engineer • Python (tornado em pixel art)"/>
+  <img src="./assets/tornado-banner.svg?v=2" width="100%" alt="Diogo — Software Developer • Python &amp; TypeScript (tornado em pixel art)"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3200&pause=1200&color=4CC2FF&background=050914&center=true&vCenter=true&width=700&height=44&lines=Analista+de+TI+%7C+Software+Engineering;Building+resilient+software+amidst+the+storm;Clean+Code+%E2%80%A2+Python+%E2%80%A2+TypeScript" alt="Typing: Analista de TI | Software Engineering"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3200&pause=1200&color=4CC2FF&background=050914&center=true&vCenter=true&width=750&height=44&lines=Desenvolvedor+de+Software+%7C+Python+%26+TypeScript;Desktop+(Qt6)+%E2%80%A2+Web+(React%2FNext.js)+%E2%80%A2+Pytest;Graduando+em+Engenharia+de+Software" alt="Typing: Desenvolvedor de Software | Python &amp; TypeScript"/>
 </p>
 
 <!-- ⚡ DIVISOR + TELEMETRIA -->
@@ -22,7 +22,7 @@
 
 <!-- ⚡ STACK -->
 <p align="center">
-  <img src="./assets/storm_stack.svg" width="100%" alt="Stack: Python, SQL, TypeScript, JavaScript, HTML / CSS, React, Next.js, PySide6, Pytest, Tailwind CSS, PostgreSQL, SQLite, Supabase, REST APIs, Docker, Git, Vercel, Electron, Vite, FFmpeg"/>
+  <img src="./assets/storm_stack.svg?v=2" width="100%" alt="Stack: Python, SQL, TypeScript, JavaScript, HTML / CSS, React, Next.js, PySide6, Pytest, Tailwind CSS, PostgreSQL, SQLite, Supabase, REST APIs, Git, Vercel, Electron, Vite, FFmpeg"/>
 </p>
 
 <p align="center">
