@@ -1,4 +1,4 @@
-﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 205" width="440" height="205" role="img" aria-label="Plutos Finances — Gestão financeira pessoal nativa em Qt6, SQLite local, 97 testes automatizados e IA Gemini.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 205" width="440" height="205" role="img" aria-label="Plutos Finances — Gestão financeira pessoal nativa em Qt6, SQLite local-first, regra 50-30-20 e 97 testes em Pytest.">
 <defs>
 <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0c1a30"/><stop offset="1" stop-color="#050914"/></linearGradient>
 <linearGradient id="bolt" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#4cc2ff" stop-opacity="0"/><stop offset="0.5" stop-color="#ffffff" stop-opacity="1"/><stop offset="1" stop-color="#4cc2ff" stop-opacity="0"/></linearGradient>
@@ -24,8 +24,8 @@
 <rect class="flash-line" x="20" y="28" width="400" height="1.5" fill="url(#bolt)"/>
 
 <text class="sans" x="22" y="64" font-size="21" font-weight="800" fill="#ffffff" letter-spacing="0.5">Plutos Finances</text>
-<text class="sans" x="22" y="92" font-size="12.5" fill="#94a3b8">Gestão financeira pessoal nativa em Qt6, SQLite</text>
-<text class="sans" x="22" y="111" font-size="12.5" fill="#94a3b8">local, 97 testes automatizados e IA Gemini.</text>
+<text class="sans" x="22" y="92" font-size="12.5" fill="#94a3b8">Gestão financeira pessoal nativa em Qt 6, banco</text>
+<text class="sans" x="22" y="111" font-size="12.5" fill="#94a3b8">SQLite local e 97 testes automatizados em Pytest.</text>
 
 <rect x="22" y="136" width="67" height="22" fill="#0c1a30" stroke="#1d5f99"/>
 <rect x="22" y="136" width="3" height="22" fill="#4cc2ff"/>

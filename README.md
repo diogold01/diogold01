@@ -22,7 +22,7 @@
 
 <!-- ⚡ STACK -->
 <p align="center">
-  <img src="./assets/storm_stack.svg?v=2" width="100%" alt="Stack: Python, SQL, TypeScript, JavaScript, HTML / CSS, React, Next.js, PySide6, Pytest, Tailwind CSS, PostgreSQL, SQLite, Supabase, REST APIs, Git, Vercel, Electron, Vite, FFmpeg"/>
+  <img src="./assets/storm_stack.svg?v=3" width="100%" alt="Stack: Python, SQL, TypeScript, JavaScript, HTML / CSS, React, Next.js, PySide6, Tailwind CSS, PostgreSQL, SQLite, Supabase, Pytest, REST APIs, Git, Electron, Vercel, Vite"/>
 </p>
 
 <p align="center">
@@ -31,17 +31,18 @@
 
 <!-- 🌪️ PROJETOS REAIS -->
 <p align="center">
-  <a href="https://github.com/diogold01/plutosfinances" target="_blank"><img src="./assets/storm_proj_plutos.svg" width="49%" alt="Plutos Finances — Python, PySide6, SQLite"/></a>
-  <a href="https://github.com/diogold01/pechincha" target="_blank"><img src="./assets/storm_proj_pechincha.svg" width="49%" alt="Pechincha — Next.js, TypeScript, Supabase"/></a>
+  <a href="https://github.com/diogold01/plutosfinances" target="_blank"><img src="./assets/storm_proj_plutos.svg?v=2" width="49%" alt="Plutos Finances — Python, PySide6, SQLite, Pytest"/></a>
+  <a href="https://github.com/diogold01/pechincha" target="_blank"><img src="./assets/storm_proj_pechincha.svg" width="49%" alt="Pechincha — Next.js, TypeScript, Supabase, Tailwind"/></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/diogold01/fluo-app" target="_blank"><img src="./assets/storm_proj_fluo.svg" width="49%" alt="Fluo — React, TypeScript, Vite, Gemini API"/></a>
-  <a href="https://github.com/diogold01/mkv2mp4" target="_blank"><img src="./assets/storm_proj_mkv2mp4.svg" width="49%" alt="MKV2MP4 — Electron, JavaScript, FFmpeg"/></a>
+  <a href="https://github.com/diogold01/desplug" target="_blank"><img src="./assets/storm_proj_desplug.svg" width="49%" alt="Desplug — Kotlin, Jetpack Compose, Android SDK, Room"/></a>
+  <a href="https://github.com/diogold01/scriptbase" target="_blank"><img src="./assets/storm_proj_scriptbase.svg" width="49%" alt="ScriptBase — SQL, JavaScript, Supabase, HTML/CSS"/></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/diogold01/agentsdk" target="_blank"><img src="./assets/storm_proj_agentsdk.svg" width="49%" alt="Study Agent — Python, Google ADK, Gemini"/></a>
+  <a href="https://github.com/diogold01/mkv2mp4" target="_blank"><img src="./assets/storm_proj_mkv2mp4.svg?v=2" width="49%" alt="mkv2mp4 — Electron, JavaScript, FFmpeg"/></a>
+  <a href="https://github.com/diogold01/fluo-app" target="_blank"><img src="./assets/storm_proj_fluo.svg?v=2" width="49%" alt="Fluo — React, TypeScript, Vite, LocalStorage"/></a>
 </p>
 
 <p align="center">
