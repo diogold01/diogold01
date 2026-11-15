@@ -22,7 +22,7 @@
 
 <!-- STACK -->
 <p align="center">
-  <img src="./assets/storm_stack.svg?v=4" width="100%" alt="Stack: Gemini API, SQL, Excel, Power BI, Python, JavaScript, HTML / CSS, SQLite, Supabase, Git / GitHub"/>
+  <img src="./assets/storm_stack.svg?v=5" width="100%" alt="Stack: Gemini API, SQL, Excel, Python, JavaScript, HTML / CSS, SQLite, Supabase, Git / GitHub"/>
 </p>
 
 <p align="center">
