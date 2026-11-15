@@ -1,6 +1,6 @@
 <!-- BANNER + TYPING -->
 <p align="center">
-  <img src="./assets/tornado-banner.svg?v=3" width="100%" alt="Diogo Duarte — Engenharia de Software • IA, SQL e Automação"/>
+  <img src="./assets/tornado-banner.svg?v=4" width="100%" alt="Diogo Duarte — Engenharia de Software • IA, SQL e Automação"/>
 </p>
 
 <p align="center">
