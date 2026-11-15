@@ -1,55 +1,50 @@
-<!-- 🌪️ BANNER + TYPING -->
+<!-- BANNER + TYPING -->
 <p align="center">
-  <img src="./assets/tornado-banner.svg?v=2" width="100%" alt="Diogo — Software Developer • Python &amp; TypeScript (tornado em pixel art)"/>
+  <img src="./assets/tornado-banner.svg?v=3" width="100%" alt="Diogo Duarte — Engenharia de Software • IA, SQL e Automação"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3200&pause=1200&color=4CC2FF&background=050914&center=true&vCenter=true&width=750&height=44&lines=Desenvolvedor+de+Software+%7C+Python+%26+TypeScript;Desktop+(Qt6)+%E2%80%A2+Web+(React%2FNext.js)+%E2%80%A2+Pytest;Graduando+em+Engenharia+de+Software" alt="Typing: Desenvolvedor de Software | Python &amp; TypeScript"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3200&pause=1200&color=4CC2FF&background=050914&center=true&vCenter=true&width=750&height=44&lines=Estudante+de+Engenharia+de+Software;Construindo+ferramentas+pr%C3%A1ticas+com+IA%2C+SQL+e+automa%C3%A7%C3%A3o;Suporte+ERP%2C+Fiscal+e+An%C3%A1lise+de+Dados" alt="Typing: Engenharia de Software | IA, SQL e Automação"/>
 </p>
 
-<!-- ⚡ DIVISOR + TELEMETRIA -->
+<!-- DIVISOR + TELEMETRIA -->
 <p align="center">
   <img src="./assets/storm_divisor.svg" width="100%" alt=""/>
 </p>
 
 <p align="center">
-  <img src="./assets/storm_telemetry.svg?v=curso" width="100%" alt="Diogo Duarte — Engenharia de Software — Coliseu Sistemas, Dourados/MS, Brasil"/>
-</p>
-
-<p align="center">
-  <img src="./assets/storm_divisor.svg" width="100%" alt=""/>
-</p>
-
-<!-- ⚡ STACK -->
-<p align="center">
-  <img src="./assets/storm_stack.svg?v=3" width="100%" alt="Stack: Python, SQL, TypeScript, JavaScript, HTML / CSS, React, Next.js, PySide6, Tailwind CSS, PostgreSQL, SQLite, Supabase, Pytest, REST APIs, Git, Electron, Vercel, Vite"/>
+  <img src="./assets/storm_telemetry.svg?v=2" width="100%" alt="Diogo Duarte — Engenharia de Software — IA Aplicada, SQL e Suporte ERP e Fiscal"/>
 </p>
 
 <p align="center">
   <img src="./assets/storm_divisor.svg" width="100%" alt=""/>
 </p>
 
-<!-- 🌪️ PROJETOS REAIS -->
+<!-- STACK -->
 <p align="center">
-  <a href="https://github.com/diogold01/plutosfinances" target="_blank"><img src="./assets/storm_proj_plutos.svg?v=2" width="49%" alt="Plutos Finances — Python, PySide6, SQLite, Pytest"/></a>
-  <a href="https://github.com/diogold01/pechincha" target="_blank"><img src="./assets/storm_proj_pechincha.svg" width="49%" alt="Pechincha — Next.js, TypeScript, Supabase, Tailwind"/></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/diogold01/desplug" target="_blank"><img src="./assets/storm_proj_desplug.svg" width="49%" alt="Desplug — Kotlin, Jetpack Compose, Android SDK, Room"/></a>
-  <a href="https://github.com/diogold01/scriptbase" target="_blank"><img src="./assets/storm_proj_scriptbase.svg" width="49%" alt="ScriptBase — SQL, JavaScript, Supabase, HTML/CSS"/></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/diogold01/mkv2mp4" target="_blank"><img src="./assets/storm_proj_mkv2mp4.svg?v=2" width="49%" alt="mkv2mp4 — Electron, JavaScript, FFmpeg"/></a>
-  <a href="https://github.com/diogold01/fluo-app" target="_blank"><img src="./assets/storm_proj_fluo.svg?v=2" width="49%" alt="Fluo — React, TypeScript, Vite, LocalStorage"/></a>
+  <img src="./assets/storm_stack.svg?v=4" width="100%" alt="Stack: Gemini API, SQL, Excel, Power BI, Python, JavaScript, HTML / CSS, SQLite, Supabase, Git / GitHub"/>
 </p>
 
 <p align="center">
   <img src="./assets/storm_divisor.svg" width="100%" alt=""/>
 </p>
 
-<!-- ⚡ REDES SOCIAIS & RODAPÉ DA TEMPESTADE -->
+<!-- PROJETOS EM DESTAQUE -->
+<p align="center">
+  <a href="https://github.com/diogold01/scriptbase" target="_blank"><img src="./assets/storm_proj_scriptbase.svg?v=2" width="49%" alt="ScriptBase — Biblioteca colaborativa de scripts SQL para suporte ERP com alerta anti-destrutivo e diagnóstico via Gemini"/></a>
+  <a href="https://github.com/diogold01/pechincha" target="_blank"><img src="./assets/storm_proj_pechincha.svg?v=2" width="49%" alt="Pechincha — Planejamento de compras, histórico de preços e leitura de cupons NFC-e com Gemini"/></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/diogold01/plutosfinances" target="_blank"><img src="./assets/storm_proj_plutos.svg?v=3" width="49%" alt="Plutos Finances — Controle financeiro em Python e SQLite com texto livre e diagnóstico 50-30-20 via Gemini"/></a>
+  <a href="https://github.com/diogold01/cnabsync" target="_blank"><img src="./assets/storm_proj_cnabsync.svg?v=1" width="49%" alt="CNABSync — Conciliador e inspetor posicional de remessas e retornos CNAB 240 e 400"/></a>
+</p>
+
+<p align="center">
+  <img src="./assets/storm_divisor.svg" width="100%" alt=""/>
+</p>
+
+<!-- CONTATO & RODAPÉ -->
 <p align="center">
   <a href="https://www.linkedin.com/in/diogold" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-in%2Fdiogold-050914?style=for-the-badge&logo=linkedin&logoColor=4CC2FF&labelColor=0C1A30" alt="LinkedIn"/>
@@ -69,5 +64,5 @@
 </p>
 
 <p align="center">
-  <img src="./assets/storm_footer.svg" width="100%" alt="Diogo Duarte — Analista de TI — Coliseu Sistemas • Dourados, MS, Brasil"/>
+  <img src="./assets/storm_footer.svg?v=2" width="100%" alt="Diogo Duarte — Suporte ERP e Fiscal — Coliseu Sistemas • Dourados, MS, Brasil"/>
 </p>
