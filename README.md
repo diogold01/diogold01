@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3200&pause=1200&color=4CC2FF&background=050914&center=true&vCenter=true&width=750&height=44&lines=Estudante+de+Engenharia+de+Software;Construindo+ferramentas+pr%C3%A1ticas+com+IA%2C+SQL+e+automa%C3%A7%C3%A3o;Suporte+ERP%2C+Fiscal+e+An%C3%A1lise+de+Dados" alt="Typing: Engenharia de Software | IA, SQL e Automação"/>
+  <img src="./assets/storm_typing.svg?v=1" width="100%" alt="Diogo Duarte — Estudante de Engenharia de Software | Construindo ferramentas práticas com IA, SQL e automação | Suporte ERP, Fiscal e Análise de Dados"/>
 </p>
 
 <!-- DIVISOR + TELEMETRIA -->
