@@ -31,7 +31,7 @@
 
 <!-- PROJETOS EM DESTAQUE -->
 <p align="center">
-  <a href="https://github.com/diogold01/scriptbase" target="_blank"><img src="./assets/storm_proj_scriptbase.svg?v=2" width="49%" alt="ScriptBase — Biblioteca colaborativa de scripts SQL para suporte ERP com alerta anti-destrutivo e diagnóstico via Gemini"/></a>
+  <a href="https://github.com/diogold01/scriptbase" target="_blank"><img src="./assets/storm_proj_scriptbase.svg?v=3" width="49%" alt="ScriptBase — Biblioteca de scripts SQL para suporte ERP com diagnóstico assistido por RAG e API Gemini"/></a>
   <a href="https://github.com/diogold01/pechincha" target="_blank"><img src="./assets/storm_proj_pechincha.svg?v=2" width="49%" alt="Pechincha — Planejamento de compras, histórico de preços e leitura de cupons NFC-e com Gemini"/></a>
 </p>
 
