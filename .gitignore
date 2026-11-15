@@ -1,10 +1,5 @@
-GLOBAL_RULES.md
-GEMINI.md
-CLAUDE.md
-rules.md
-context.md
-mockup/
-.gemini/
-.brain/
 .DS_Store
 Thumbs.db
+*.log
+.vscode/
+.idea/
